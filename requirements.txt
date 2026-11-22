@@ -1,0 +1,7 @@
+# Reported experiment software versions; Python 3.12 recommended.
+# Original timing run (reported in the paper): Python 3.12.14 on an Intel Core i5-1135G7, 32 GB RAM, 64-bit Windows 11. See README "Timing runs" for the later re-run.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+matplotlib==3.10.8
+jupyterlab>=4,<5

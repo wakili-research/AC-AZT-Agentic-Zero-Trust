@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the accompanying research paper and the repository."
+title: "AC-AZT: Reproducibility Package for Trustworthy Agentic AI Defense"
+authors:
+  - family-names: "Wakili"
+    given-names: "Abubakar"
+  - family-names: "Bakkali"
+    given-names: "Sara"
+  - family-names: "Hammoudeh"
+    given-names: "Mohammad"
+version: "3.4"
+type: software
+repository-code: "https://github.com/wakili-research/AC-AZT-Agentic-Zero-Trust"
