@@ -1,0 +1,10 @@
+method,oracle,executed,cases,rate
+AC-AZT,DENY,0,175,0.0
+AC-AZT,APPROVAL_REQUIRED,3,32,0.09375
+AC-AZT,APPROVAL_REQUIRED (benign only),3,18,0.16666666666666666
+Direct Execution,DENY,165,175,0.9428571428571428
+Direct Execution,APPROVAL_REQUIRED,32,32,1.0
+Direct Execution,APPROVAL_REQUIRED (benign only),18,18,1.0
+Static Authorization,DENY,112,175,0.64
+Static Authorization,APPROVAL_REQUIRED,27,32,0.84375
+Static Authorization,APPROVAL_REQUIRED (benign only),16,18,0.8888888888888888

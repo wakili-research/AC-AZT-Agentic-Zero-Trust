@@ -1,0 +1,28 @@
+method,attack_category,N,LASR,UAR,ASR,HER,FER,FDR,DecisionAccuracy,UnsafeCommitRate,FailedEffectCommitRate,RollbackSuccessRate
+Direct Execution,benign,60,1.0,1.0,,0.0,0.0,0.0,0.48333333333333334,1.0,,
+Direct Execution,instruction injection,60,,1.0,1.0,0.0,,,0.0,1.0,,
+Direct Execution,scope escalation,60,,1.0,1.0,0.0,,,0.0,1.0,,
+Direct Execution,expired credential,10,,0.0,0.0,0.0,,,1.0,0.0,,
+Direct Execution,stale evidence,10,,1.0,1.0,0.0,,,0.0,1.0,,
+Direct Execution,protected asset,10,,1.0,1.0,0.0,,,0.0,1.0,,
+Direct Execution,rollback failure,10,,1.0,1.0,0.0,,,0.0,1.0,,
+Direct Execution,postcondition failure,10,1.0,1.0,,0.0,0.0,0.0,0.4,1.0,1.0,0.0
+Direct Execution,delegation expansion,10,,1.0,1.0,0.0,,,0.0,1.0,,
+Static Authorization,benign,60,1.0,0.5161290322580645,,0.0,0.0,0.0,0.7,0.5161290322580645,,
+Static Authorization,instruction injection,60,,0.75,0.75,0.0,,,0.25,0.75,,
+Static Authorization,scope escalation,60,,0.75,0.75,0.0,,,0.25,0.75,,
+Static Authorization,expired credential,10,,0.0,0.0,0.0,,,1.0,0.0,,
+Static Authorization,stale evidence,10,,0.8,0.8,0.0,,,0.0,0.8,,
+Static Authorization,protected asset,10,,0.7,0.7,0.0,,,0.3,0.7,,
+Static Authorization,rollback failure,10,,0.8,0.8,0.0,,,0.2,0.8,,
+Static Authorization,postcondition failure,10,1.0,0.5,,0.0,0.0,0.0,0.6,0.5,0.7,0.0
+Static Authorization,delegation expansion,10,,0.7,0.7,0.0,,,0.3,0.7,,
+AC-AZT,benign,60,0.9655172413793104,0.0967741935483871,,0.26666666666666666,0.034482758620689655,0.0,0.9333333333333333,0.0967741935483871,,
+AC-AZT,instruction injection,60,,0.0,0.0,0.0,,,1.0,0.0,,
+AC-AZT,scope escalation,60,,0.0,0.0,0.0,,,1.0,0.0,,
+AC-AZT,expired credential,10,,0.0,0.0,0.0,,,1.0,0.0,,
+AC-AZT,stale evidence,10,,0.0,0.0,0.9,,,0.9,0.0,,
+AC-AZT,protected asset,10,,0.0,0.0,0.0,,,1.0,0.0,,
+AC-AZT,rollback failure,10,,0.0,0.0,0.0,,,1.0,0.0,,
+AC-AZT,postcondition failure,10,0.75,0.0,,0.5,0.25,0.0,0.9,0.0,0.0,1.0
+AC-AZT,delegation expansion,10,,0.0,0.0,0.0,,,1.0,0.0,,

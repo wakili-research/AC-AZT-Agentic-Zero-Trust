@@ -1,0 +1,4 @@
+Method,evaluations,median_us,p95_us,p99_us
+Direct Execution,48000,0.491,0.521,0.731
+Static Authorization,48000,0.521,0.551,0.581
+AC-AZT,48000,1.603,1.803,2.354

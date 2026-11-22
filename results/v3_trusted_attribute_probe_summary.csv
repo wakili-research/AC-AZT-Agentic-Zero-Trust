@@ -1,0 +1,5 @@
+probe,risk_increase,cases,executed
+"P1 scope mismatch, flag True",False,60,31
+"P1 scope mismatch, flag True",True,60,28
+"P2 injected text, typed call",False,60,31
+"P2 injected text, typed call",True,60,29

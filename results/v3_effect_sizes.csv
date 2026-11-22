@@ -1,0 +1,3 @@
+comparison,baseline_unauthorized,ac_azt_unauthorized,denominator,pp_reduction
+AC-AZT vs Direct Execution,197,3,207,93.72
+AC-AZT vs Static Authorization,139,3,207,65.7

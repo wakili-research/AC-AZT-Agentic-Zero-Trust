@@ -1,0 +1,4 @@
+,P1_auth_complete,P2_hard_rule_dominance,P3_scope_confinement,P4_freshness,P5_delegation_attenuation,P6_verified_completion
+Direct Execution,0,159,60,10,10,10
+Static Authorization,0,112,45,8,7,7
+AC-AZT,0,0,0,0,0,0
