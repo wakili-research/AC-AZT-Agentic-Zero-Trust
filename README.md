@@ -1,8 +1,9 @@
 # AC-AZT: Action-Centric Agentic Zero-Trust Authorization
 
-**Reproducibility Package — Version 3.4**
+**Reproducibility Package — Version 1.1**
 
 **Companion paper:** *Trustworthy Agentic AI Defense: Adaptive Zero-Trust for Cloud–Edge–IoT* (UCC 2026 Workshop)
+**Authors:** Abubakar Wakili, Sara Bakkali, and Mohammad Hammoudeh
 
 ## Overview
 
