@@ -234,8 +234,8 @@ Two timing records are preserved:
 
 | Run | Environment | Median / p95 / p99 (µs) |
 |---|---|---|
-| Original experiment | Python 3.12.14, pandas 2.2.3, NumPy 2.3.5, SciPy 1.17.0, Matplotlib 3.10.8; Intel Core i5-1135G7, 32 GB RAM, Windows 11, as reported by the first author | 1.476 / 1.783 / 2.157 |
-| Later reproducibility run | Python 3.13.5; CPU/OS not independently recorded | 1.603 / 1.803 / 2.354 |
+| Original experiment | Python 3.12.14, pandas 2.2.3, NumPy 2.3.5, SciPy 1.17.0, Matplotlib 3.10.8; Intel Core i5-1135G7, 32 GB RAM, Windows 11,  | 1.476 / 1.783 / 2.157 |
+
 
 The original results are retained in `AC-AZT-Notebook.ipynb`. The later run is recorded in `results/metric_summary.csv` and `results/authorization_latency.csv`.
 
